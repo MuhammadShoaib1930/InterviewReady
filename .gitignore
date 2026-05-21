@@ -35,6 +35,7 @@
 # Executables
 DSAs.xlsx
 Cracking.pdf
+~$DSAs.xlsx
 *.exe
 *.out
 *.app
